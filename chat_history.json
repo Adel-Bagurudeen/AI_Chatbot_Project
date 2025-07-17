@@ -1,0 +1,97 @@
+[
+    {
+        "timestamp": "2025-07-17 15:45:49",
+        "user": "hi",
+        "bot": "Hello! How can I assist you today?"
+    },
+    {
+        "timestamp": "2025-07-17 15:45:56",
+        "user": "tell me a joke",
+        "bot": "Why did the computer go to art school? Because it wanted to learn to draw a better \"byte\"!"
+    },
+    {
+        "timestamp": "2025-07-17 15:47:15",
+        "user": "hi",
+        "bot": "Hello! How can I assist you today?"
+    },
+    {
+        "timestamp": "2025-07-17 15:47:20",
+        "user": "how are you",
+        "bot": "I\u2019m doing great, thanks for asking! How about you?"
+    },
+    {
+        "timestamp": "2025-07-17 15:47:25",
+        "user": "im great",
+        "bot": "I love pizza! What\u2019s your favorite food?"
+    },
+    {
+        "timestamp": "2025-07-17 15:47:34",
+        "user": "pizza too",
+        "bot": "Sorry, I didn\u2019t understand that. Try something like 'Hi' or 'Tell me a joke'!"
+    },
+    {
+        "timestamp": "2025-07-17 15:47:45",
+        "user": "tell me a joke",
+        "bot": "Why did the computer go to art school? Because it wanted to learn to draw a better \"byte\"!"
+    },
+    {
+        "timestamp": "2025-07-17 15:52:42",
+        "user": "hi",
+        "bot": "Hello! How can I assist you today?"
+    },
+    {
+        "timestamp": "2025-07-17 15:52:51",
+        "user": "how are you",
+        "bot": "I\u2019m doing great, thanks for asking! How about you?"
+    },
+    {
+        "timestamp": "2025-07-17 15:52:56",
+        "user": "im good",
+        "bot": "Sorry, I didn\u2019t understand that. Try something like 'Hi' or 'Tell me a joke'!"
+    },
+    {
+        "timestamp": "2025-07-17 15:53:04",
+        "user": "tell me a joke",
+        "bot": "Why did the computer go to art school? Because it wanted to learn to draw a better \"byte\"!"
+    },
+    {
+        "timestamp": "2025-07-17 15:53:11",
+        "user": "tell me a joke",
+        "bot": "Why did the computer go to art school? Because it wanted to learn to draw a better \"byte\"!"
+    },
+    {
+        "timestamp": "2025-07-17 15:53:21",
+        "user": "whats the time",
+        "bot": "The current time is 15:53:21."
+    },
+    {
+        "timestamp": "2025-07-17 15:53:28",
+        "user": "whats the weather",
+        "bot": "I can\u2019t check the weather, but tell me your city, and I\u2019ll suggest what to wear!"
+    },
+    {
+        "timestamp": "2025-07-17 15:53:34",
+        "user": "chennai",
+        "bot": "Sorry, I didn\u2019t understand that. Try something like 'Hi' or 'Tell me a joke'!"
+    },
+    {
+        "timestamp": "2025-07-17 15:55:50",
+        "user": "hello",
+        "bot": "Hello! How can I assist you today?"
+    },
+    {
+        "timestamp": "2025-07-17 15:56:02",
+        "user": "whats the time",
+        "bot": "The current time is 15:56:02."
+    },
+    {
+        "timestamp": "2025-07-17 15:58:00",
+        "user": "hello",
+        "bot": "Hello! How can I assist you today?"
+    },
+    {
+        "timestamp": "2025-07-17 15:58:07",
+        "user": "best football player",
+        "bot": "Cristiano Ronaldo"
+    }
+]
