@@ -1,15 +1,15 @@
 # AI Chatbot
 
-## 📌 Project Overview
-This project is a simple, rule-based AI chatbot developed as part of **NSP NEXUS Week 4**. It is implemented in Python and features both command-line and graphical user interfaces. The chatbot responds to predefined user inputs and maintains a history of conversations.
+## Project Overview
+This project is a simple, rule-based AI chatbot developed as part of **NSP NEXUS Week 4**. It is implemented in Python and features as graphical user interfaces. The chatbot responds to predefined user inputs and maintains a history of conversations.
 
 ---
 
 ##  Features
--  Text-based interaction (command-line & GUI)
+-  This is a graphical user interface chatbot model
 -  Responds to 10+ sample queries  
-  *(e.g., "Hi", "What’s your name?", "Tell me a joke")*
-- 📁 Saves chat history to `chat_history.json`
+  *(e.g., "Hi", "Whats your name?", "Tell me  joke")*
+-  Saves chat history to `chat_history.json`
 -  View past chats by typing `history`
 -  Exit the chatbot by typing `exit`
 -  Optional GUI interface built with `tkinter`
@@ -20,9 +20,9 @@ This project is a simple, rule-based AI chatbot developed as part of **NSP NEXUS
 
 ###  Prerequisites
 - Python 3.8 or higher  
-  👉 [Download Python](https://www.python.org/downloads/)
-
+- git
+- github
 ---
-Explanation Video
+### Explanation Video
 
 [Click here to watch the explanation video](Explanation_video.mp4)
