@@ -93,5 +93,135 @@
         "timestamp": "2025-07-17 15:58:07",
         "user": "best football player",
         "bot": "Cristiano Ronaldo"
+    },
+    {
+        "timestamp": "2025-07-17 20:43:46",
+        "user": "hi",
+        "bot": "Hello! How can I assist you today?"
+    },
+    {
+        "timestamp": "2025-07-17 20:43:57",
+        "user": "what is your name",
+        "bot": "I\u2019m Grok, your friendly AI chatbot!"
+    },
+    {
+        "timestamp": "2025-07-17 20:44:05",
+        "user": "what canyou do",
+        "bot": "Sorry, I didn\u2019t understand that. Try something like 'Hi' or 'Tell me a joke'!"
+    },
+    {
+        "timestamp": "2025-07-17 20:44:13",
+        "user": "best football player",
+        "bot": "Cristiano Ronaldo"
+    },
+    {
+        "timestamp": "2025-07-17 20:47:36",
+        "user": "hi",
+        "bot": "Hello! How can I assist you today?"
+    },
+    {
+        "timestamp": "2025-07-17 20:47:42",
+        "user": "who are you",
+        "bot": "Sorry, I didn\u2019t understand that. Try something like 'Hi' or 'Tell me a joke'!"
+    },
+    {
+        "timestamp": "2025-07-17 20:47:50",
+        "user": "best football player",
+        "bot": "Cristiano Ronaldo"
+    },
+    {
+        "timestamp": "2025-07-17 20:47:57",
+        "user": "whats the weather",
+        "bot": "I can\u2019t check the weather, but tell me your city, and I\u2019ll suggest what to wear!"
+    },
+    {
+        "timestamp": "2025-07-17 20:48:02",
+        "user": "goodbye",
+        "bot": "Goodbye! Thanks for chatting!"
+    },
+    {
+        "timestamp": "2025-07-17 20:56:53",
+        "user": "hi",
+        "bot": "Hello! How can I assist you today?"
+    },
+    {
+        "timestamp": "2025-07-17 20:56:59",
+        "user": "what is your name",
+        "bot": "I\u2019m Grok, your friendly AI chatbot!"
+    },
+    {
+        "timestamp": "2025-07-17 20:57:03",
+        "user": "joke",
+        "bot": "Why did the computer go to art school? Because it wanted to learn to draw a better \"byte\"!"
+    },
+    {
+        "timestamp": "2025-07-17 20:57:07",
+        "user": "who made you",
+        "bot": "I was created by a student for the NSP NEXUS AI project!"
+    },
+    {
+        "timestamp": "2025-07-17 20:57:12",
+        "user": "best football player",
+        "bot": "Cristiano Ronaldo"
+    },
+    {
+        "timestamp": "2025-07-17 23:02:04",
+        "user": "hi",
+        "bot": "Hello! How can I assist you today?"
+    },
+    {
+        "timestamp": "2025-07-17 23:04:11",
+        "user": "best football player",
+        "bot": "Cristiano Ronaldo"
+    },
+    {
+        "timestamp": "2025-07-18 19:10:48",
+        "user": "hi",
+        "bot": "Hello! How can I assist you today?"
+    },
+    {
+        "timestamp": "2025-07-18 19:10:53",
+        "user": "what is the weather",
+        "bot": "I can\u2019t check the weather, but tell me your city, and I\u2019ll suggest what to wear!"
+    },
+    {
+        "timestamp": "2025-07-18 19:10:57",
+        "user": "chennai",
+        "bot": "tshirts with jeans"
+    },
+    {
+        "timestamp": "2025-07-18 19:11:11",
+        "user": "best football player",
+        "bot": "Cristiano Ronaldo"
+    },
+    {
+        "timestamp": "2025-07-18 19:11:15",
+        "user": "thank you",
+        "bot": "You\u2019re very welcome!"
+    },
+    {
+        "timestamp": "2025-07-18 19:25:35",
+        "user": "hi",
+        "bot": "Hello! How can I assist you today?"
+    },
+    {
+        "timestamp": "2025-07-18 19:25:42",
+        "user": "whats your name",
+        "bot": "I\u2019m Grok, your friendly AI chatbot!"
+    },
+    {
+        "timestamp": "2025-07-18 19:25:48",
+        "user": "tell me joke",
+        "bot": "Joke"
+    },
+    {
+        "timestamp": "2025-07-18 19:25:53",
+        "user": "thanks",
+        "bot": "You\u2019re very welcome!"
+    },
+    {
+        "timestamp": "2025-07-18 19:25:59",
+        "user": "best football player",
+        "bot": "Cristiano Ronaldo"
     }
 ]
