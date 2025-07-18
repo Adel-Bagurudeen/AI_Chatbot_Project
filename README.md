@@ -23,4 +23,6 @@ This project is a simple, rule-based AI chatbot developed as part of **NSP NEXUS
   👉 [Download Python](https://www.python.org/downloads/)
 
 ---
-### Explanation video
+Explanation Video
+
+[Click here to watch the explanation video](Explanation_video.mp4)
