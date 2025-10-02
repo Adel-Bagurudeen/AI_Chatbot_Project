@@ -1,7 +1,7 @@
 # AI Chatbot
 
 ## Project Overview
-This project is a simple, rule-based AI chatbot developed as part of **NSP NEXUS Week 4**. It is implemented in Python and features as graphical user interfaces. The chatbot responds to predefined user inputs and maintains a history of conversations.
+This project is a simple, rule-based AI chatbot. It is implemented in Python and features as graphical user interfaces. The chatbot responds to predefined user inputs and maintains a history of conversations.
 
 ---
 
